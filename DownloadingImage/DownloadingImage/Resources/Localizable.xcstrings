@@ -1,0 +1,28 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "downloadingImageView.failure" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Image download failed."
+          }
+        }
+      }
+    },
+    "downloadingImageView.internetIsNotAvailable" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There is currently no internet connection"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
