@@ -18,6 +18,7 @@ NetworkOperationPerformer is implemented using two approaches:
 2.	The second implementation uses AsyncStream and TaskGroup.
 
 Using two schemes, you can switch between the two approaches.
+
 ![Shemes](Demo/shemes.png)
 
 ## Project structure
