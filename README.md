@@ -13,8 +13,9 @@ Functions of NetworkOperationPerformer:
 
 ## Implementation Details
 NetworkOperationPerformer is implemented using two approaches:
-	1.	The first implementation uses the Combine framework.
-	2.	The second implementation uses AsyncStream and TaskGroup.
+
+1.	The first implementation uses the Combine framework.
+2.	The second implementation uses AsyncStream and TaskGroup.
 
 Using two schemes, you can switch between the two approaches.
 ![Shemes](Demo/shemes.png)
